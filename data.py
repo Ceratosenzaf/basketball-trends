@@ -1,6 +1,5 @@
 #Seasons are labeled based on the first year in the season
 #E.g. the 2012-2013 season is preseneted as simply 2012
-
 import numpy as np
 
 #Seasons
